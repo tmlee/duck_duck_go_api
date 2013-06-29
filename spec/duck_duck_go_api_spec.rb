@@ -4,7 +4,7 @@ require 'duck_duck_go_api'
 describe DuckDuckGoApi do
 
 	before :all do
-		@client = DuckDuckGoApi::Client.new
+		@client = DuckDuckGoApi::Client
 	end
 
 	it "makes basic api call when passed in parameter q and format" do
