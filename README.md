@@ -1,6 +1,6 @@
 # DuckDuckGoApi
 
-TODO: Write a gem description
+Lightweight, flexible library for the Duck Duck Go API (https://duckduckgo.com/api) in Ruby 
 
 ## Installation
 
@@ -12,13 +12,22 @@ And then execute:
 
     $ bundle
 
-Or install it yourself as:
-
-    $ gem install duck_duck_go_api
-
 ## Usage
 
-TODO: Write usage instructions here
+Call the API directly via the DuckDuckGoApi::Client. Pass in parameters such as (q, format, etc..)
+Parameters map 1-1 as stated in the documentation https://duckduckgo.com/api
+
+### You'll need the DuckDuckGoApi::Client
+	
+	client = DuckDuckGoApi::Client
+
+### Query Anything!
+
+	client.query :q => "github", :format => "json"
+
+### Parameters Maps 1-1 in https://duckduckgo.com/api
+
+	client.query :q => "github", :format => "json", :no_html => 1, :skip_disambig => 1
 
 ## Contributing
 
