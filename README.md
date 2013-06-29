@@ -6,7 +6,7 @@ Lightweight, flexible library for the Duck Duck Go API (https://duckduckgo.com/a
 
 Add this line to your application's Gemfile:
 
-    gem 'duck_duck_go_api'
+    gem 'duck_duck_go_api', git: 'git://github.com/tmlee/duck_duck_go_api.git'
 
 And then execute:
 
