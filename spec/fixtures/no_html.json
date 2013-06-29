@@ -1,0 +1,59 @@
+{
+   "Definition" : "",
+   "DefinitionSource" : "",
+   "Heading" : "GitHub",
+   "AbstractSource" : "Wikipedia",
+   "Image" : "https://i.duckduckgo.com/i/27ff1233.png",
+   "RelatedTopics" : [
+      {
+         "Result" : "<a href=\"http://duckduckgo.com/c/Bug_and_issue_tracking_software\">Bug and issue tracking software</a>",
+         "Icon" : {
+            "URL" : "",
+            "Height" : "",
+            "Width" : ""
+         },
+         "FirstURL" : "http://duckduckgo.com/c/Bug_and_issue_tracking_software",
+         "Text" : "Bug and issue tracking software"
+      },
+      {
+         "Result" : "<a href=\"http://duckduckgo.com/c/Computing_websites\">Computing websites</a>",
+         "Icon" : {
+            "URL" : "",
+            "Height" : "",
+            "Width" : ""
+         },
+         "FirstURL" : "http://duckduckgo.com/c/Computing_websites",
+         "Text" : "Computing websites"
+      },
+      {
+         "Result" : "<a href=\"http://duckduckgo.com/c/Project_management_software\">Project management software</a>",
+         "Icon" : {
+            "URL" : "",
+            "Height" : "",
+            "Width" : ""
+         },
+         "FirstURL" : "http://duckduckgo.com/c/Project_management_software",
+         "Text" : "Project management software"
+      }
+   ],
+   "AbstractText" : "GitHub is a web-based hosting service for software development projects that use the Git revision control system.",
+   "Abstract" : "GitHub is a web-based hosting service for software development projects that use the Git revision control system.",
+   "AnswerType" : "",
+   "Redirect" : "",
+   "Type" : "A",
+   "DefinitionURL" : "",
+   "Answer" : "",
+   "Results" : [
+      {
+         "Result" : "<a href=\"https://github.com/\">Official site</a><a href=\"https://github.com/\"></a>",
+         "Icon" : {
+            "URL" : "https://i.duckduckgo.com/i/github.com.ico",
+            "Height" : 16,
+            "Width" : 16
+         },
+         "FirstURL" : "https://github.com/",
+         "Text" : "Official site"
+      }
+   ],
+   "AbstractURL" : "https://en.wikipedia.org/wiki/GitHub"
+}
